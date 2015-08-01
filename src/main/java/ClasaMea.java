@@ -32,7 +32,7 @@ public class ClasaMea extends HttpServlet {
         out.println("<body>");
 
 
-        out.println("suma este:<b>"+suma+"</b>");
+        out.println("rezultatul este:<b>"+suma+"</b>");
 
         out.close();
 
